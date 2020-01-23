@@ -978,7 +978,7 @@ export default class About extends Component {
             <Route path="/about/contact" component={Contact} />
             <Route
               path="/about"
-              render={() => (
+              lrender={() => (
                 <div>
                   <h1>About the University</h1>
                   <p>
@@ -988,7 +988,7 @@ export default class About extends Component {
                     tellus eu facilisis. Donec nisi turpis, iaculis et arcu a,
                     aliquet ultrices nisl. Nam in pharetra odio, ac blandit
                     metus. Suspendisse potenti. Praesent elementum diam non orci
-                    cursus rutrum. Pellentesque condimentum ultrices dignissim.
+                    cursus rutrum. Pelentesque condimentum ultrices dignissim.
                     Sed a tempor ligula, vel luctus sapien. Mauris vehicula
                     rutrum massa. Duis condimentum, ex quis ullamcorper rhoncus,
                     erat libero tempor arcu, condimentum facilisis tellus lectus
